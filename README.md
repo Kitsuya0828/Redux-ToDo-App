@@ -1,3 +1,7 @@
+# ToDo App using Redux
+
+https://user-images.githubusercontent.com/60843722/198885307-5780799a-b062-4a9a-8703-3da05ed852cf.mov
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
